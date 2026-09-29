@@ -1,0 +1,15 @@
+{
+  "name": "Wukong",
+  "symbol": "WUKONG",
+  "description": "Wukong is a Monkey King themed Solana Devnet test token with a fixed supply of 1,000,000,000 WUKONG. Devnet tokens have no monetary value.",
+  "image": "https://raw.githubusercontent.com/ronaldokj29-lab/wukong-devnet-assets/main/wukong-logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ronaldokj29-lab/wukong-devnet-assets/main/wukong-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
